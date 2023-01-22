@@ -7,3 +7,8 @@
 Requirements
 1. Components from the DSP class
 2. Meaningful task ->Should produce a useful result ->Work on the latest crypto graphs
+
+1. [[Get the data]]
+2. Do the analysis
+3. Make the interface
+
